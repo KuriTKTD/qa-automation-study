@@ -15,7 +15,7 @@ It is a modern framework that's also used for web automation. It has a functiona
 
 ** negrito ** **example**
 * itálico * *example*
-  ~~ riscado ~~ ~~example~~
+~~ riscado ~~ ~~example~~
 
 ## Changes
 Add new info everyday!
