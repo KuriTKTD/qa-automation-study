@@ -13,9 +13,13 @@ It is a modern framework that's also used for web automation. It has a functiona
 
 ### Markdown Tips
 
-** negrito ** **example**
-* itálico * *example*
-~~ riscado ~~ ~~example~~
+ ** negrito ** **example**
+
+  \* itálico * *example*
+
+ ~~ riscado ~~ ~~example~~
+
+
 
 ## Changes
 Add new info everyday!
