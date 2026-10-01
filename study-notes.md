@@ -11,5 +11,11 @@ It end up helping to organize the code.
 ## Playwright
 It is a modern framework that's also used for web automation. It has a functionality that allows you to simply click buttons on the website, and it will grab the ID os everything pretty much instataneously.
 
+### Markdown Tips
+
+** negrito ** **example**
+* itálico * *example*
+  ~~ riscado ~~ ~~example~~
+
 ## Changes
 Add new info everyday!
