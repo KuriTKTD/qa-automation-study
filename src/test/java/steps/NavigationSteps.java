@@ -19,8 +19,13 @@ public class NavigationSteps {
 
         for (String site:sites){
             driver.get(site);
+
+            String title = driver.getTitle();
+
+            System.out.println("Site accessed: " + site);
             Thread.sleep(1000);
         }
+        System.out.println("Total sites accessed: " + sites.size());
     }
 
 }
